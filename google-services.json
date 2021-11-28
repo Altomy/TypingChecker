@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "169709526048",
+    "project_id": "typing-checker",
+    "storage_bucket": "typing-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169709526048:android:17b943e4c10ea046967045",
+        "android_client_info": {
+          "package_name": "com.plussoft.typingchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169709526048-3fa6k2g6cmbh3h4qnoms96nhuru7f8s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqqkDyqH7ETNViPz3tSMCQdTqhJIjFJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169709526048-3fa6k2g6cmbh3h4qnoms96nhuru7f8s3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "169709526048-31a1ejcagja9qpr6ns70qqj8nbohq06o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plussoft.typingchecker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

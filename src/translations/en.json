@@ -1,0 +1,99 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Typing speed checker",
+      "subtitle": "Test your typing speed",
+      "go": "Go !",
+      "globalResultTitle": "Global result",
+      "globalResultSubtitle": "Check global results",
+      "myResultTitle": "My result",
+      "myResultSubtitle": "Check global results",
+      "options": {
+        "title": "Options",
+        "subtitle": "Select options for check",
+        "level": "Level",
+        "time": "Time",
+        "textLanguage": "Text language",
+        "start": "Start"
+      }
+    },
+    "exam": {
+      "beReady": "Be Ready",
+      "go": "Go"
+    },
+    "examResult": {
+      "errors": {
+        "title": "Error",
+        "description": "There are error in network please try again later"
+      },
+      "success": {
+        "title": "Sharing to global success",
+        "description": "Your result is in global now, check the global result"
+      },
+      "title": "Result",
+      "rightWords": "Right Words",
+      "words": "Words",
+      "errorWords": "Error Words",
+      "totalWords": "Total words",
+      "wordPerSecond": "Words per second",
+      "shareButton": "Share To Global",
+      "shareYourResult": "Share your result to global",
+      "share": "Share"
+    },
+    "myResult": {
+      "title": "My results",
+      "wordsTyped": "Words Typed",
+      "words": "Words",
+      "typedMinute": "Typed Minutes",
+      "minutes": "Minutes",
+      "resultBox": {
+        "success": "Success",
+        "errors": "Errors",
+        "words": "Words",
+        "word": "Word"
+      }
+    },
+    "info": {
+      "title": "Information",
+      "subtitle": "Global Results Name",
+      "name": "Name"
+    },
+    "global": {
+      "error": "There are error please try again later",
+      "words": "Words",
+      "title": "Global Result",
+      "empty": "There are no results here",
+      "showResult": "Show results",
+      "level": "Level"
+    },
+    "sidePanel": {
+      "settings": "Settings",
+      "notifications": "Notifications",
+      "language": "Languages",
+      "aboutUs": "About Us",
+      "callUs": "Call us",
+      "resetData": "Reset data",
+      "information": "Information"
+    },
+    "callUs": {
+      "callUs": "Call us",
+      "title": "Call us",
+      "sendDirectMessageToUs": "Send direct message to us",
+      "name": "Name",
+      "phone": "Phone number",
+      "message": "Message",
+      "send": "Send",
+      "errorPleaseTryAgainLater": "Error, Please try again later.",
+      "sendMessageSuccess": "Send message success",
+      "weHaveYourMessage": "We have your message, we well contact you faster as we can"
+    },
+    "formBuilder": {
+      "require": "This field required"
+    },
+    "language": {
+      "title": "Select Language",
+      "back": "Languages"
+    }
+  }
+}

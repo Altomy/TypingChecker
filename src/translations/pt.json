@@ -1,0 +1,99 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Verificador de velocidade de digitação",
+      "subtitle": "Teste sua velocidade de digitação",
+      "go": "Ir !",
+      "globalResultTitle": "Resultado global",
+      "globalResultSubtitle": "Confira os resultados globais",
+      "myResultTitle": "Meu resultado",
+      "myResultSubtitle": "Confira os resultados globais",
+      "options": {
+        "title": "Opções",
+        "subtitle": "Selecione opções para verificar",
+        "level": "Nível",
+        "time": "Hora",
+        "textLanguage": "Linguagem de texto",
+        "start": "Começar"
+      }
+    },
+    "exam": {
+      "beReady": "Esteja pronto",
+      "go": "Ir"
+    },
+    "examResult": {
+      "errors": {
+        "title": "Erro",
+        "description": "Há erro na rede, por favor, tente novamente mais tarde"
+      },
+      "success": {
+        "title": "Compartilhamento para o sucesso global",
+        "description": "Seu resultado está em global agora, confira o resultado global"
+      },
+      "title": "Resultado",
+      "rightWords": "Palavras certas",
+      "words": "Palavras",
+      "errorWords": "Palavras de erro",
+      "totalWords": "Total de palavras",
+      "wordPerSecond": "Palavras por segundo",
+      "shareButton": "Compartilhar para a Global",
+      "shareYourResult": "Compartilhe seu resultado para a global",
+      "share": "Compartilhar"
+    },
+    "myResult": {
+      "title": "Meus resultados",
+      "wordsTyped": "Palavras Digitado",
+      "words": "Palavras",
+      "typedMinute": "Minutos digitado",
+      "minutes": "Ata",
+      "resultBox": {
+        "success": "Êxito",
+        "errors": "Erros",
+        "words": "Palavras",
+        "word": "Palavra"
+      }
+    },
+    "info": {
+      "title": "Informação",
+      "subtitle": "Nome dos resultados globais",
+      "name": "Nome"
+    },
+    "global": {
+      "error": "Há erro, por favor, tente novamente mais tarde",
+      "words": "Palavras",
+      "title": "Resultado Global",
+      "empty": "Não há resultados aqui.",
+      "showResult": "Mostrar resultados",
+      "level": "nível"
+    },
+    "sidePanel": {
+      "settings": "Configurações",
+      "notifications": "Notificações",
+      "language": "Idiomas",
+      "aboutUs": "Quem somos",
+      "callUs": "Ligue para nós.",
+      "resetData": "Redefinir dados",
+      "information": "informação"
+    },
+    "callUs": {
+      "callUs": "Ligue para nós.",
+      "title": "Ligue para nós.",
+      "sendDirectMessageToUs": "Envie uma mensagem direta para nós",
+      "name": "Nome",
+      "phone": "Número de telefone",
+      "message": "Mensagem",
+      "send": "Enviar",
+      "errorPleaseTryAgainLater": "Erro, por favor, tente novamente mais tarde.",
+      "sendMessageSuccess": "Enviar sucesso de mensagens",
+      "weHaveYourMessage": "Temos sua mensagem, contatamos você mais rápido possível."
+    },
+    "formBuilder": {
+      "require": "Este campo é necessário"
+    },
+    "language": {
+      "title": "Selecionar idioma",
+      "back": "Idiomas"
+    }
+  }
+}

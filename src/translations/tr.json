@@ -1,0 +1,99 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Hız denetleyicisi yazma",
+      "subtitle": "Yazma hızınızı test edin",
+      "go": "Gitmek !",
+      "globalResultTitle": "Genel sonuç",
+      "globalResultSubtitle": "Genel sonuçları denetleme",
+      "myResultTitle": "Benim sonucum",
+      "myResultSubtitle": "Genel sonuçları denetleme",
+      "options": {
+        "title": "Seçenekler",
+        "subtitle": "Denetim seçeneklerini belirleme",
+        "level": "Düzey",
+        "time": "Saat",
+        "textLanguage": "Metin dili",
+        "start": "Başlamak"
+      }
+    },
+    "exam": {
+      "beReady": "Hazır Olun",
+      "go": "Gitmek"
+    },
+    "examResult": {
+      "errors": {
+        "title": "Hata",
+        "description": "Ağda hata var, lütfen daha sonra yeniden deneyin"
+      },
+      "success": {
+        "title": "Küresel başarıya paylaşım",
+        "description": "Sonucunuz şu anda global, genel sonucu kontrol edin"
+      },
+      "title": "Sonuç",
+      "rightWords": "Doğru Kelimeler",
+      "words": "Kelime",
+      "errorWords": "Hata Sözcükleri",
+      "totalWords": "Toplam sözcük sayısı",
+      "wordPerSecond": "Saniyedeki sözcük sayısı",
+      "shareButton": "Global'e Paylaş",
+      "shareYourResult": "Sonucunuzu global olarak paylaşın",
+      "share": "Paylaş"
+    },
+    "myResult": {
+      "title": "Sonuçlarım",
+      "wordsTyped": "Yazılan Sözcükler",
+      "words": "Kelime",
+      "typedMinute": "Yazılan Dakikalar",
+      "minutes": "Tutanak",
+      "resultBox": {
+        "success": "Başarı",
+        "errors": "Hata",
+        "words": "Kelime",
+        "word": "Kelime"
+      }
+    },
+    "info": {
+      "title": "Bilgi",
+      "subtitle": "Genel Sonuç Adı",
+      "name": "Ad"
+    },
+    "global": {
+      "error": "Hata var, lütfen daha sonra yeniden deneyin",
+      "words": "Kelime",
+      "title": "Genel Sonuç",
+      "empty": "Burada sonuç yok.",
+      "showResult": "Sonuçları göster",
+      "level": "düzey"
+    },
+    "sidePanel": {
+      "settings": "Ayarlar",
+      "notifications": "Bildirim",
+      "language": "Diller",
+      "aboutUs": "Hakkımızda",
+      "callUs": "Bizi arayın",
+      "information": "bilgi",
+      "resetData": "Verileri sıfırlama"
+    },
+    "callUs": {
+      "callUs": "Bizi arayın",
+      "title": "Bizi arayın",
+      "sendDirectMessageToUs": "Bize doğrudan mesaj gönderin",
+      "name": "Ad",
+      "phone": "Telefon numarası",
+      "message": "İleti",
+      "send": "Gönder",
+      "errorPleaseTryAgainLater": "Hata, Lütfen daha sonra yeniden deneyin.",
+      "sendMessageSuccess": "İleti başarısı gönder",
+      "weHaveYourMessage": "Mesajınız var, sizinle elimizden gelen en hızlı şekilde iletişime geçiyoruz"
+    },
+    "formBuilder": {
+      "require": "Bu alan gerekli"
+    },
+    "language": {
+      "title": "Dil seçin",
+      "back": "Diller"
+    }
+  }
+}

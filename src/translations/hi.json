@@ -1,0 +1,105 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "टाइपिंग स्पीड चेकर",
+      "subtitle": "अपनी टाइपिंग गति का परीक्षण करें",
+      "go": "जा !",
+      "globalResultTitle": "वैश्विक परिणाम",
+      "globalResultSubtitle": "वैश्विक परिणामों की जांच करें",
+      "myResultTitle": "मेरा परिणाम",
+      "myResultSubtitle": "वैश्विक परिणामों की जांच करें",
+      "options": {
+        "title": "विकल्प",
+        "subtitle": "जांच के लिए विकल्प चुनें",
+        "level": "स्तर",
+        "time": "समय",
+        "textLanguage": "पाठ्य भाषा",
+        "start": "निकल"
+      }
+    },
+    "exam": {
+      "beReady": "तैयार रहें",
+      "go": "जा"
+    },
+    "examResult": {
+      "errors": {
+        "title": "भूल",
+        "description": "नेटवर्क में त्रुटि है कृपया बाद में फिर से प्रयास करें"
+      },
+      "success": {
+        "title": "वैश्विक सफलता के लिए साझा करना",
+        "description": "आपका परिणाम अब वैश्विक में है, वैश्विक परिणाम की जांच करें"
+      },
+      "title": "परिणाम",
+      "rightWords": "सही शब्द",
+      "words": "शब्द",
+      "errorWords": "त्रुटि शब्द",
+      "totalWords": "कुल शब्द",
+      "wordPerSecond": "शब्द प्रति सेकंड",
+      "shareButton": "वैश्विक को साझा करें",
+      "shareYourResult": "अपने परिणाम को वैश्विक में साझा करें",
+      "share": "हिस्सा"
+    },
+    "myResult": {
+      "title": "मेरे परिणाम",
+      "wordsTyped": "टाइप शब्द",
+      "words": "शब्द",
+      "typedMinute": "टाइप मिनट",
+      "minutes": "मिनट",
+      "resultBox": {
+        "success": "सफलता",
+        "errors": "त्रुटियों",
+        "words": "शब्द",
+        "word": "शब्द"
+      }
+    },
+    "info": {
+      "title": "सूचना",
+      "subtitle": "वैश्विक परिणाम का नाम",
+      "name": "नाम"
+    },
+    "global": {
+      "error": "त्रुटि है कृपया बाद में फिर से प्रयास करें",
+      "words": "शब्द",
+      "title": "वैश्विक परिणाम",
+      "empty": "यहां कोई परिणाम नहीं हैं",
+      "showResult": "परिणाम दिखाएं",
+      "level": "स्तर"
+    },
+    "sidePanel": {
+      "settings": "सेटिंग्स",
+      "notifications": "सूचनाएँ",
+      "language": "भाषाओं",
+      "resetData": "रीसेट डेटा",
+      "aboutUs": "हमारे बारे में",
+      "callUs": "हमें बुलाओ",
+      "resetDataAlert": {
+        "title": "रीसेट डेटा",
+        "body": "सभी सीवी और जानकारी हटा दी जाएगी",
+        "cancel": "रद्द करना",
+        "ok": "पुष्टि"
+      },
+      "information": "सूचना"
+    },
+    "callUs": {
+      "callUs": "हमें बुलाओ",
+      "title": "हमें बुलाओ",
+      "sendDirectMessageToUs": "हमें सीधे संदेश भेजें",
+      "name": "नाम",
+      "phone": "फोन संख्या",
+      "message": "संदेश",
+      "send": "भेजना",
+      "errorPleaseTryAgainLater": "त्रुटि, कृपया बाद में फिर से प्रयास करें।",
+      "sendMessageSuccess": "संदेश सफलता भेजें",
+      "weHaveYourMessage": "हमारे पास आपका संदेश है, हम अच्छी तरह से आपसे संपर्क कर सकते हैं"
+    },
+    "formBuilder": {
+      "require": "इस फ़ील्ड की आवश्यकता"
+    },
+    "language": {
+      "title": "भाषा का चयन करें",
+      "back": "भाषाओं"
+    }
+  }
+}

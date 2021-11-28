@@ -1,0 +1,100 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Comprobador de velocidad de escritura",
+      "subtitle": "Pruebe su velocidad de escritura",
+      "go": "Ir !",
+      "globalResultTitle": "Resultado global",
+      "globalResultSubtitle": "Comprobar resultados globales",
+      "myResultTitle": "Mi resultado",
+      "myResultSubtitle": "Comprobar resultados globales",
+      "options": {
+        "title": "Opciones",
+        "subtitle": "Seleccione las opciones para la comprobación",
+        "level": "Nivel",
+        "time": "Hora",
+        "textLanguage": "Idioma del texto",
+        "start": "Empezar"
+      }
+    },
+    "exam": {
+      "beReady": "Prepárate",
+      "go": "Ir"
+    },
+    "examResult": {
+      "errors": {
+        "title": "Error",
+        "description": "Hay errores en la red, inténtelo de nuevo más tarde"
+      },
+      "success": {
+        "title": "Compartir para el éxito global",
+        "description": "Su resultado está en global ahora, verifique el resultado global"
+      },
+      "title": "Resultado",
+      "rightWords": "Palabras correctas",
+      "words": "Palabras",
+      "errorWords": "Palabras de error",
+      "totalWords": "Total de palabras",
+      "wordPerSecond": "Palabras por segundo",
+      "shareButton": "Compartir en Global",
+      "shareYourResult": "Comparta su resultado con global",
+      "share": "Compartir"
+    },
+    "myResult": {
+      "title": "Mis resultados",
+      "wordsTyped": "Palabras mecanografiadas",
+      "words": "Palabras",
+      "typedMinute": "Minutos mecanografillados",
+      "minutes": "Acta",
+      "resultBox": {
+        "success": "Éxito",
+        "errors": "Errores",
+        "words": "Palabras",
+        "word": "Palabra"
+      }
+    },
+    "info": {
+      "title": "Información",
+      "subtitle": "Nombre de los resultados globales",
+      "name": "Nombre"
+    },
+    "global": {
+      "error": "Hay errores, inténtelo de nuevo más tarde",
+      "words": "Palabras",
+      "word": "Palabra",
+      "title": "Resultado global",
+      "empty": "No hay resultados aquí",
+      "showResult": "Mostrar resultados",
+      "level": "Nivel"
+    },
+    "sidePanel": {
+      "settings": "Configuración",
+      "notifications": "Notificaciones",
+      "language": "Idiomas",
+      "aboutUs": "Sobre nosotros",
+      "callUs": "Llámanos",
+      "resetData": "Restablecer datos",
+      "information": "Información"
+    },
+    "callUs": {
+      "callUs": "Llámanos",
+      "title": "Llámanos",
+      "sendDirectMessageToUs": "Envíanos un mensaje directo",
+      "name": "Nombre",
+      "phone": "Número de teléfono",
+      "message": "Men",
+      "send": "Enviar",
+      "errorPleaseTryAgainLater": "Error, inténtelo de nuevo más tarde.",
+      "sendMessageSuccess": "Envié el mensaje con éxito.",
+      "weHaveYourMessage": "Tenemos su mensaje, nos ponemos en contacto con usted más rápido como podemos"
+    },
+    "formBuilder": {
+      "require": "Este campo requerido"
+    },
+    "language": {
+      "title": "Seleccionar idioma",
+      "back": "Idiomas"
+    }
+  }
+}

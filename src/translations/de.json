@@ -1,0 +1,99 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Tipp-Geschwindigkeitsprüfung",
+      "subtitle": "Testen der Tippgeschwindigkeit",
+      "go": "Gehen!",
+      "globalResultTitle": "Globales Ergebnis",
+      "globalResultSubtitle": "Globale Ergebnisse überprüfen",
+      "myResultTitle": "My result",
+      "myResultSubtitle": "Check global results",
+      "options": {
+        "title": "Optionen",
+        "subtitle": "Optionen für die Prüfung auswählen",
+        "level": "Niveau",
+        "time": "Zeit",
+        "textLanguage": "Textsprache",
+        "start": "Anfangen"
+      }
+    },
+    "exam": {
+      "beReady": "Bereitstehen",
+      "go": "Gehen"
+    },
+    "examResult": {
+      "errors": {
+        "title": "Fehler",
+        "description": "Es gibt einen Fehler im Netzwerk, bitte versuchen Sie es später erneut"
+      },
+      "success": {
+        "title": "Teilen zum globalen Erfolg",
+        "description": "Ihr Ergebnis ist jetzt global, überprüfen Sie das globale Ergebnis"
+      },
+      "title": "Ergebnis",
+      "rightWords": "Richtige Worte",
+      "words": "Wörter",
+      "errorWords": "Fehlerwörter",
+      "totalWords": "Wörter gesamt",
+      "wordPerSecond": "Wörter pro Sekunde",
+      "shareButton": "Auf Global teilen",
+      "shareYourResult": "Teilen Sie Ihr Ergebnis auf globaler Ebene",
+      "share": "Freigeben"
+    },
+    "myResult": {
+      "title": "Meine Ergebnisse",
+      "wordsTyped": "Eingegebene Wörter",
+      "words": "Wörter",
+      "typedMinute": "Getippte Minuten",
+      "minutes": "Protokoll",
+      "resultBox": {
+        "success": "Erfolg",
+        "errors": "Irrtümer",
+        "words": "Wörter",
+        "word": "Wort"
+      }
+    },
+    "info": {
+      "title": "Information",
+      "subtitle": "Name der globalen Ergebnisse",
+      "name": "Name"
+    },
+    "global": {
+      "error": "Es gibt einen Fehler, bitte versuchen Sie es später erneut",
+      "words": "Wörter",
+      "title": "Globales Ergebnis",
+      "empty": "Hier gibt es keine Ergebnisse",
+      "showResult": "Ergebnisse anzeigen",
+      "level": "Niveau"
+    },
+    "sidePanel": {
+      "settings": "Einstellungen",
+      "notifications": "Benachrichtigungen",
+      "language": "Sprachen",
+      "aboutUs": "Über uns",
+      "callUs": "Rufen Sie uns an",
+      "resetData": "Daten zurücksetzen",
+      "information": "Information"
+    },
+    "callUs": {
+      "callUs": "Rufen Sie uns an",
+      "title": "Rufen Sie uns an",
+      "sendDirectMessageToUs": "Senden Sie uns eine direkte Nachricht",
+      "name": "Name",
+      "phone": "Telefonnummer",
+      "message": "Nachricht",
+      "send": "Senden",
+      "errorPleaseTryAgainLater": "Fehler, Bitte versuchen Sie es später erneut.",
+      "sendMessageSuccess": "Nachricht erfolgreich senden",
+      "weHaveYourMessage": "Wir haben Ihre Nachricht, wir kontaktieren Sie schneller als möglich"
+    },
+    "formBuilder": {
+      "require": "Dieses Feld ist erforderlich"
+    },
+    "language": {
+      "title": "Sprache auswählen",
+      "back": "Sprachen"
+    }
+  }
+}

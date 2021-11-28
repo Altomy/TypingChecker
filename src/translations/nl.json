@@ -1,0 +1,105 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Snelheidscontrole typen",
+      "subtitle": "Test uw typsnelheid",
+      "go": "Gaan !",
+      "globalResultTitle": "Globaal resultaat",
+      "globalResultSubtitle": "Bekijk de algemene resultaten",
+      "myResultTitle": "Mijn resultaat",
+      "myResultSubtitle": "Bekijk de algemene resultaten",
+      "options": {
+        "title": "Opties",
+        "subtitle": "Selecteer opties voor controle",
+        "level": "Niveau",
+        "time": "Tijd",
+        "textLanguage": "Teksttaal",
+        "start": "Beginnen"
+      }
+    },
+    "exam": {
+      "beReady": "Wees er klaar voor",
+      "go": "Gaan"
+    },
+    "examResult": {
+      "errors": {
+        "title": "Fout",
+        "description": "Er zijn fouten in het netwerk, probeer het later opnieuw"
+      },
+      "success": {
+        "title": "Delen naar wereldwijd succes",
+        "description": "Uw resultaat is nu wereldwijd, controleer het algemene resultaat"
+      },
+      "title": "Resultaat",
+      "rightWords": "Juiste woorden",
+      "words": "Woorden",
+      "errorWords": "Fout woorden",
+      "totalWords": "Totaal aantal woorden",
+      "wordPerSecond": "Woorden per seconde",
+      "shareButton": "Delen met global",
+      "shareYourResult": "Deel uw resultaat met global",
+      "share": "Delen"
+    },
+    "myResult": {
+      "title": "Mijn resultaten",
+      "wordsTyped": "Getypte woorden",
+      "words": "Woorden",
+      "typedMinute": "Getypte minuten",
+      "minutes": "Notulen",
+      "resultBox": {
+        "success": "Succes",
+        "errors": "Fouten",
+        "words": "Woorden",
+        "word": "Woord"
+      }
+    },
+    "info": {
+      "title": "Informatie",
+      "subtitle": "Algemene resultaten Naam",
+      "name": "Naam"
+    },
+    "global": {
+      "error": "Er zijn fouten, probeer het later opnieuw",
+      "words": "Woorden",
+      "title": "Wereldwijd resultaat",
+      "empty": "Er zijn hier geen resultaten",
+      "showResult": "Toon resultaten",
+      "level": "niveau"
+    },
+    "sidePanel": {
+      "settings": "Instellingen",
+      "notifications": "Meldingen",
+      "language": "Talen",
+      "resetData": "Gegevens opnieuw instellen",
+      "aboutUs": "Informatie",
+      "callUs": "Bel ons",
+      "resetDataAlert": {
+        "title": "Gegevens opnieuw instellen",
+        "body": "Alle cv's en informatie worden verwijderd",
+        "cancel": "Annuleren",
+        "ok": "Bevestigen"
+      },
+      "information": "informatie"
+    },
+    "callUs": {
+      "callUs": "Bel ons",
+      "title": "Bel ons",
+      "sendDirectMessageToUs": "Stuur ons een direct bericht",
+      "name": "Naam",
+      "phone": "Telefoonnummer",
+      "message": "Bericht",
+      "send": "Verzenden",
+      "errorPleaseTryAgainLater": "Fout, probeer het later opnieuw.",
+      "sendMessageSuccess": "Bericht verzenden geslaagd",
+      "weHaveYourMessage": "We hebben uw boodschap, we nemen zo snel mogelijk contact met u op"
+    },
+    "formBuilder": {
+      "require": "Dit veld verplicht"
+    },
+    "language": {
+      "title": "Taal selecteren",
+      "back": "Talen"
+    }
+  }
+}

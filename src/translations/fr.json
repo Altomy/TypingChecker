@@ -1,0 +1,99 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Vérificateur de vitesse de frappe",
+      "subtitle": "Testez votre vitesse de frappe",
+      "go": "Aller !",
+      "globalResultTitle": "Résultat global",
+      "globalResultSubtitle": "Vérifier les résultats globaux",
+      "myResultTitle": "Mon résultat",
+      "myResultSubtitle": "Vérifier les résultats globaux",
+      "options": {
+        "title": "Options",
+        "subtitle": "Sélectionner les options à vérifier",
+        "level": "Niveau",
+        "time": "Heure",
+        "textLanguage": "Langue du texte",
+        "start": "Commencer"
+      }
+    },
+    "exam": {
+      "beReady": "Soyez prêt",
+      "go": "Aller"
+    },
+    "examResult": {
+      "errors": {
+        "title": "Erreur",
+        "description": "Il y a une erreur dans le réseau s’il vous plaît réessayer plus tard"
+      },
+      "success": {
+        "title": "Partager pour réussir à l’échelle mondiale",
+        "description": "Votre résultat est en global maintenant, vérifiez le résultat global"
+      },
+      "title": "Résultat",
+      "rightWords": "Mots justes",
+      "words": "Mots",
+      "errorWords": "Erreur Mots",
+      "totalWords": "Total Mots",
+      "wordPerSecond": "Mots par seconde",
+      "shareButton": "Partager avec Global",
+      "shareYourResult": "Partagez votre résultat avec global",
+      "share": "Partager"
+    },
+    "myResult": {
+      "title": "Mes résultats",
+      "wordsTyped": "Mots tapés",
+      "words": "Mots",
+      "typedMinute": "Minutes dactylographiées",
+      "minutes": "Compte-rendu",
+      "resultBox": {
+        "success": "Succès",
+        "errors": "Erreurs",
+        "words": "Mots",
+        "word": "Mot"
+      }
+    },
+    "info": {
+      "title": "Information",
+      "subtitle": "Nom des résultats globaux",
+      "name": "Nom"
+    },
+    "global": {
+      "error": "Il y a des erreurs s’il vous plaît réessayer plus tard",
+      "words": "Mots",
+      "title": "Résultat global",
+      "empty": "Il n’y a pas de résultats ici",
+      "showResult": "Afficher les résultats",
+      "level": "Niveau"
+    },
+    "sidePanel": {
+      "settings": "Paramètres",
+      "notifications": "Notifications",
+      "language": "Traduction",
+      "aboutUs": "Qui sommes-nous",
+      "callUs": "Appelez-nous",
+      "resetData": "Réinitialiser les données",
+      "information": "Information"
+    },
+    "callUs": {
+      "callUs": "Appelez-nous",
+      "title": "Appelez-nous",
+      "sendDirectMessageToUs": "Envoyez-nous un message direct",
+      "name": "Nom",
+      "phone": "Numéro de téléphone",
+      "message": "Message",
+      "send": "Send",
+      "errorPleaseTryAgainLater": "Erreur, Veuillez réessayer plus tard.",
+      "sendMessageSuccess": "Envoyer un message avec succès",
+      "weHaveYourMessage": "Nous avons votre message, nous vous contactons aussi rapidement que possible"
+    },
+    "formBuilder": {
+      "require": "Ce champ obligatoire"
+    },
+    "language": {
+      "title": "Sélectionner une langue",
+      "back": "Traduction"
+    }
+  }
+}

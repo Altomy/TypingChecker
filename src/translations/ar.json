@@ -1,0 +1,105 @@
+{
+  "translation": {
+    "dir": "rtl",
+    "home": {
+      "title": "فحص سرعة الكتابة",
+      "subtitle": "افحص سرعة كتابتك على الهاتف",
+      "go": "أبدا !",
+      "globalResultTitle": "النتائج العالمية",
+      "globalResultSubtitle": "اكتشف النتائج العالمية",
+      "myResultTitle": "نتائجي",
+      "myResultSubtitle": "قم بتفحص نتائجك السابقة",
+      "options": {
+        "title": "الاعدادات",
+        "subtitle": "اختر الاعدادات للفحص",
+        "level": "المستوى",
+        "time": "الوقت",
+        "textLanguage": "لغة النص",
+        "start": "أبدا"
+      }
+    },
+    "exam": {
+      "beReady": "كن مستعدا",
+      "go": "أبدا"
+    },
+    "examResult": {
+      "errors": {
+        "title": "خطا",
+        "description": "يوجد خطا في الشبكة الرجاء المحاولة مرة أخرى"
+      },
+      "success": {
+        "title": "تم مشاركة النتيجة ",
+        "description": "نتيجتك الان على النتائج العالمية"
+      },
+      "title": "النتائج",
+      "rightWords": "الكلمات الصحيحه",
+      "words": "الكلمات",
+      "errorWords": "الكلمات الخاطئة",
+      "totalWords": "مجموع الكلمات",
+      "wordPerSecond": "كلمة في الثانيه",
+      "shareButton": "مشاركة",
+      "shareYourResult": "مشاركة النتائج",
+      "share": "مشاركة"
+    },
+    "myResult": {
+      "title": "نتائجي",
+      "wordsTyped": "الكلمات المكتوبة",
+      "words": "الكلمات ",
+      "typedMinute": "وقت الكتابة",
+      "minutes": "دقائق",
+      "resultBox": {
+        "success": "صحيحه",
+        "errors": "خاطئة",
+        "words": "كلمات",
+        "word": "كلمة"
+      }
+    },
+    "info": {
+      "title": "معلومات",
+      "subtitle": "معلومات اسم المشاركة",
+      "name": "الأسم"
+    },
+    "global": {
+      "error": "يوجد خطا, الرجاء المحاولة مرة أخرى",
+      "words": "كلمات",
+      "title": "نتائج عالمية",
+      "empty": "لا يوجد نتائج هنا",
+      "showResult": "متابعة النتائج",
+      "level": "المستوى"
+    },
+    "sidePanel": {
+      "settings": "الاعدادات",
+      "notifications": "الاشعارات",
+      "language": "اللغة",
+      "resetData": "حذف البيانات",
+      "aboutUs": "من نحن",
+      "callUs": "اتصل بنا",
+      "resetDataAlert": {
+        "title": "حذف البيانات",
+        "body": "جميع البيانات سوف تحذف",
+        "cancel": "الغاء",
+        "ok": "موافق"
+      },
+      "information": "المعلومات"
+    },
+    "callUs": {
+      "callUs": "اتصل بنا",
+      "title": "اتصل بنا",
+      "sendDirectMessageToUs": "ارسل رسالة مباشرة لنا",
+      "name": "الأسم",
+      "phone": "رقم الهاتف",
+      "message": "الرسالة",
+      "send": "ارسال",
+      "errorPleaseTryAgainLater": "يوجد خطا الرجاء الأرسال مرة اخرى",
+      "sendMessageSuccess": "تم ارسال الرسالة بنجاح",
+      "weHaveYourMessage": "لقد استلمنا رسالتك سوف نقوم بالتواصل معك في اقرب وقت"
+    },
+    "formBuilder": {
+      "require": "هذا الحقل مطلوب"
+    },
+    "language": {
+      "title": "أختر لغة",
+      "back": "اللغات"
+    }
+  }
+}
